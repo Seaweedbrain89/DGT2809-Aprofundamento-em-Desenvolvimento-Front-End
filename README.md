@@ -1,5 +1,18 @@
 # LivrosAngular
 
+## Lista de livros:
+![Lista de livros](https://github.com/user-attachments/assets/bf5fab83-2df8-4d2c-a704-8370d1dc3024)
+
+
+## Cadastro novo livro:
+![Cadastro novo livro](https://github.com/user-attachments/assets/1ecf4ace-801c-4b4c-a657-c1a6a94b9722)
+
+
+
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
 
 ## Development server
